@@ -1,3 +1,4 @@
+//Objeto que tiene la tarjeta.
 function Card(type) {
 	this.type = type;
 	this.content = document.createElement('DIV');
